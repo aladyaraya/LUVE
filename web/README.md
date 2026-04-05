@@ -23,13 +23,23 @@
 ## 项目结构
 
 web/
+
 ├── static/
+
 │ └── bgm/ # 存放所有背景音乐资源
+
 │ ├── donggan/ # 动感音乐分类
+
 │ ├── jianjin/ # 渐进音乐分类
+
 │ └── pingjing/ # 平静音乐分类
+
 ├── app.py # 后端主入口
+
 ├── config.py # 配置文件
+
 ├── front-end.html # 前端主页面
+
 ├── three.core.js # Three.js 核心库
+
 └── three.module.js # Three.js 模块库
